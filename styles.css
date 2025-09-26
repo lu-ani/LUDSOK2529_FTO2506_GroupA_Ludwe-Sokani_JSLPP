@@ -303,6 +303,15 @@ input:checked + .slider:before {
   z-index: 2;
 }
 
+.show-sidebar-btn:hover {
+  cursor: pointer;
+  background-color: #a8a4ff;
+}
+
+.prohibit-emoji {
+  margin-right: 18%;
+}
+
 /* ===============
    Main Layout
 ================ */
