@@ -18,7 +18,7 @@ A modern, responsive **Task Manager Web App** built with modular JavaScript. Cre
 - [💻 Tech Stack](#-tech-stack)
 - [🌍 Deployment](#-deployment)
 - [📸 Screenshots](#-screenshots)
-- [🗣️ presentation](presentation)
+- [🗣️ presentation](#-presentation)
   
 ---
 
@@ -162,6 +162,10 @@ Mobile Dark Mode:
 ![Mobile Dark Mode](/screenshots/Mobile-dark.jpg?raw=true "Mobile Dark Mode")
 
 [⬆️ Back to Contents](#-Contents)
+
+---
+
+## 🗣️ Presentation
 
 ---
 
