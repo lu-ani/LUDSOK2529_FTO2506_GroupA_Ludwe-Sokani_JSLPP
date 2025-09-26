@@ -22,6 +22,22 @@
   transition: background-color 5s ease, color 5s ease; /* Smooth transition */
 }
 
+:root.dark {
+  --primary-color: #2b2c37;
+  --secondary-color: #20212c;
+  --primary-font-color: #ffffff;
+  --secondary-font-color: #828fa3; /*DOESN't CHANGE*/
+  --primary-button-color: #635fc7; /*DOESN't CHANGE*/
+  --secondary-button-color: #ea5555; /*DOESN't CHANGE*/
+  --dark-hide: #635fc7;
+  --hide-sidebar-text: #fff;
+  --option-background: #2b2c37;
+
+  --primary-box-shadow: 0px 4px 6px #364e7e; /* Subtle shadow for card depth */
+  --sidebar-width: 300px; /* Sidebar fixed width */
+
+  transition: background-color 0.5s ease, color 0.5s ease; /* Smooth transition */
+}
 
 /* ================
    Base Elements
