@@ -50,20 +50,20 @@ A modern, responsive **Task Manager Web App** built with modular JavaScript. Cre
 
 ## 📦 Folder Structure
 
-chat-gpt-files/
-├── index.html
-├── main.js
-├── initialData.js
-├── /data
-│ └── taskData.js
-├── /ui
-│ ├── darkMode.js
-│ ├── sidebar.js
-│ ├── faviconModal.js
-│ └── taskRenderer.js
-├── /modal
-│ └── modalHandlers.js
-├── README.md
+chat-gpt-files/</br>
+├── index.html</br>
+├── main.js</br>
+├── initialData.js</br>
+├── /data</br>
+│ └── taskData.js</br>
+├── /ui</br>
+│ ├── darkMode.js</br>
+│ ├── sidebar.js</br>
+│ ├── faviconModal.js</br>
+│ └── taskRenderer.js</br>
+├── /modal</br>
+│ └── modalHandlers.js</br>
+├── README.md</br>
 
 ## 🛠️ How to Use
 
