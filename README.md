@@ -69,7 +69,7 @@ chat-gpt-files/</br>
 
 ### 1. **Open the App**
 
-- Open `ludwe-jslpp.netlify.app` in your browser.
+- Open the app [URL](https://ludwe-jslpp.netlify.app) in your browser.
 
 ### 2. **Add a Task**
 
@@ -133,15 +133,13 @@ chat-gpt-files/</br>
 
 ## 🌍 Deployment
 
-The app will be live at `https://ludwe-jslpp.netlify.app`
+The app will be live at [https://ludwe-jslpp.netlify.app](https://ludwe-jslpp.netlify.app)
 
 [⬆️ Back to Contents](#-Contents)
 
 ---
 
 ## 📸 Screenshots
-
-> Replace these image links with actual screenshots from your app.
 
 ### 🖥️ Desktop View
 
@@ -153,7 +151,11 @@ The app will be live at `https://ludwe-jslpp.netlify.app`
 
 ### 🌙 Dark Mode
 
+Desktop Dark Mode:
+
 ![Desktop Dark Mode](/screenshots/Laptop-dark.jpg?raw=true "Desktop Dark Mode")
+
+Mobile Dark Mode:
 
 ![Mobile Dark Mode](/screenshots/Mobile-dark.jpg?raw=true "Mobile Dark Mode")
 
