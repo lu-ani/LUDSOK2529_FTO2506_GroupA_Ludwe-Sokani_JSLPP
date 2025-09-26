@@ -165,14 +165,4 @@ Mobile Dark Mode:
 
 ---
 
-## 🗣️ <a name="presentation">Presentation</a>
-
-(ALSO available in ./presentation/LUDSOK2529_FTO2506_GroupA_Ludwe-Sokani_JSLPP_presentation.mp4)
-
-https://github.com/user-attachments/assets/2a832b62-fba8-4634-b56c-240a6be942d7
-
-
-
----
-
 ### 👋 Happy Task Managing!
