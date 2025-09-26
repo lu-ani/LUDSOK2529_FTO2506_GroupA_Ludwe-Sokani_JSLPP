@@ -16,7 +16,7 @@ async function loadTasks() {
 
   // ✅ Show modal at the start
   if (loadingModal)
-    loadingMessage.textContent = "Trying to use Localally stored tasks";
+    loadingMessage.textContent = "Trying to use Locally stored tasks";
   loadingModal.showModal();
 
   if (initialTask) {
@@ -24,14 +24,7 @@ async function loadTasks() {
       initialTasks = JSON.parse(initialTask);
       console.log("using localStorage");
 
-      if (loadingMessage) {
-        loadingMessage.textContent = "Using Locally stored tasks";
-
-        setTimeout(() => {
-          loadingModal.close();
-          loadingModal.style.display = "none";
-        }, 500);
-      }
+      modal.close();
 
       return;
     } catch (err) {
@@ -39,14 +32,12 @@ async function loadTasks() {
         "⚠️ Failed to parse localStorage data. Falling back to API."
       );
 
-      if (loadingMessage) {
-        loadingMessage.textContent = "No tasks found, retrieving data from API";
+      loadingMessage.textContent = "No tasks found, retrieving data from API";
 
-        setTimeout(() => {
-          loadingModal.close();
-          loadingModal.style.display = "none";
-        }, 500);
-      }
+      setTimeout(() => {
+        loadingModal.close();
+        loadingModal.style.display = "none";
+      }, 500);
     }
   }
 
@@ -66,12 +57,11 @@ async function loadTasks() {
     localStorage.setItem("initialTask", JSON.stringify(initialTasks));
     console.log("✅ Loaded tasks from API and cached in localStorage");
 
-    if (loadingMessage) {
-      loadingMessage.textContent = "✅ Loaded tasks and saved in localStorage";
-    }
+    loadingMessage.textContent = "✅ Loaded tasks and saved in localStorage";
+    modal.close();
   } catch (error) {
     // Pause so user sees message
-    await new Promise((resolve) => setTimeout(resolve, 2000));
+    await new Promise((resolve) => setTimeout(resolve, 100));
   } finally {
     if (loadingModal) {
       setTimeout(() => {
