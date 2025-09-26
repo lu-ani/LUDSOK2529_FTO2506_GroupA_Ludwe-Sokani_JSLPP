@@ -6,7 +6,19 @@
 ![JavaScript](https://img.shields.io/badge/Built%20With-JavaScript-yellow)
 
 A modern, responsive **Task Manager Web App** built with modular JavaScript. Create, edit, delete, and prioritize your tasks in a sleek Kanban layout — with support for **dark mode**, **a mobile sidebar**, and **local storage** persistence.
+---
 
+## 🧭 Contents
+
+
+- [🚀 Features](#-features)
+- [📦 Folder Structure](#-folder-structure)
+- [🛠️ How to Use](#️-how-to-use)
+- [🧠 Helpful Tips](#-helpful-tips)
+- [💻 Tech Stack](#-tech-stack)
+- [🌍 Deployment](#-deployment)
+- [📸 Screenshots](#-screenshots)
+  
 ---
 
 ## 🚀 Features
@@ -34,17 +46,6 @@ A modern, responsive **Task Manager Web App** built with modular JavaScript. Cre
 
 - All task data is saved in **Local Storage**
 - No backend required — works completely offline when repo is downloaded and ran via liveserver on VSC
-
----
-
-## 🧭 Contents
-
-- [📦 Folder Structure](#-folder-structure)
-- [🛠️ How to Use](#️-how-to-use)
-- [🧠 Helpful Tips](#-helpful-tips)
-- [💻 Tech Stack](#-tech-stack)
-- [🌍 Deployment](#-deployment)
-- [📸 Screenshots](#-screenshots)
 
 ---
 
