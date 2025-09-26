@@ -52,7 +52,7 @@ A modern, responsive **Task Manager Web App** built with modular JavaScript. Cre
 
 ## 📦 Folder Structure
 
-chat-gpt-files/</br>
+LUDSOK2529_FTO2506_GroupA_Ludwe-Sokani_JSLPP</br>
 ├── index.html</br>
 ├── main.js</br>
 ├── initialData.js</br>
