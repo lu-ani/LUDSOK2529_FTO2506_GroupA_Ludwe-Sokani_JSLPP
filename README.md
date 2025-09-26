@@ -6,7 +6,19 @@
 ![JavaScript](https://img.shields.io/badge/Built%20With-JavaScript-yellow)
 
 A modern, responsive **Task Manager Web App** built with modular JavaScript. Create, edit, delete, and prioritize your tasks in a sleek Kanban layout — with support for **dark mode**, **a mobile sidebar**, and **local storage** persistence.
+---
 
+## 🧭 Contents
+
+
+- [🚀 Features](#-features)
+- [📦 Folder Structure](#-folder-structure)
+- [🛠️ How to Use](#️-how-to-use)
+- [🧠 Helpful Tips](#-helpful-tips)
+- [💻 Tech Stack](#-tech-stack)
+- [🌍 Deployment](#-deployment)
+- [📸 Screenshots](#-screenshots)
+  
 ---
 
 ## 🚀 Features
@@ -37,39 +49,28 @@ A modern, responsive **Task Manager Web App** built with modular JavaScript. Cre
 
 ---
 
-## 🧭 Contents
-
-- [📦 Folder Structure](#-folder-structure)
-- [🛠️ How to Use](#️-how-to-use)
-- [🧠 Helpful Tips](#-helpful-tips)
-- [💻 Tech Stack](#-tech-stack)
-- [🌍 Deployment](#-deployment)
-- [📸 Screenshots](#-screenshots)
-
----
-
 ## 📦 Folder Structure
 
-chat-gpt-files/
-├── index.html
-├── main.js
-├── initialData.js
-├── /data
-│ └── taskData.js
-├── /ui
-│ ├── darkMode.js
-│ ├── sidebar.js
-│ ├── faviconModal.js
-│ └── taskRenderer.js
-├── /modal
-│ └── modalHandlers.js
-├── README.md
+chat-gpt-files/</br>
+├── index.html</br>
+├── main.js</br>
+├── initialData.js</br>
+├── /data</br>
+│ └── taskData.js</br>
+├── /ui</br>
+│ ├── darkMode.js</br>
+│ ├── sidebar.js</br>
+│ ├── faviconModal.js</br>
+│ └── taskRenderer.js</br>
+├── /modal</br>
+│ └── modalHandlers.js</br>
+├── README.md</br>
 
 ## 🛠️ How to Use
 
 ### 1. **Open the App**
 
-- Open `ludwe-jslpp.netlify.app` in your browser.
+- Open the app [URL](https://ludwe-jslpp.netlify.app) in your browser.
 
 ### 2. **Add a Task**
 
@@ -133,15 +134,13 @@ chat-gpt-files/
 
 ## 🌍 Deployment
 
-The app will be live at `https://ludwe-jslpp.netlify.app`
+The app will be live at [https://ludwe-jslpp.netlify.app](https://ludwe-jslpp.netlify.app)
 
 [⬆️ Back to Contents](#-Contents)
 
 ---
 
 ## 📸 Screenshots
-
-> Replace these image links with actual screenshots from your app.
 
 ### 🖥️ Desktop View
 
@@ -153,7 +152,11 @@ The app will be live at `https://ludwe-jslpp.netlify.app`
 
 ### 🌙 Dark Mode
 
+Desktop Dark Mode:
+
 ![Desktop Dark Mode](/screenshots/Laptop-dark.jpg?raw=true "Desktop Dark Mode")
+
+Mobile Dark Mode:
 
 ![Mobile Dark Mode](/screenshots/Mobile-dark.jpg?raw=true "Mobile Dark Mode")
 
