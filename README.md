@@ -10,8 +10,6 @@ A modern, responsive **Task Manager Web App** built with modular JavaScript. Cre
 
 ## 🧭 Contents
 
-
-
 - [🚀 Features](#-features)
 - [📦 Folder Structure](#-folder-structure)
 - [🛠️ How to Use](#️-how-to-use)
