@@ -165,7 +165,7 @@ Mobile Dark Mode:
 
 ---
 
-## 🗣️ Presentation
+## Presentation
 
 (ALSO available in ./presentation/LUDSOK2529_FTO2506_GroupA_Ludwe-Sokani_JSLPP_presentation.mp4)
 
