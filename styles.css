@@ -233,6 +233,76 @@ input:checked + .slider:before {
   border-radius: 50%;
   height: 80%;
 }
+
+/********** dark mode & hide task bar **********/
+
+.dark-mode {
+  display: flex;
+  height: 48px;
+  width: 80%;
+  margin-left: 7%;
+  margin-bottom: 20px;
+  background-color: var(--dark-hide) /*#f4f7fd */;
+  border-radius: 10px;
+  justify-content: center;
+  transition: 0.3s;
+}
+
+.icon {
+  margin-left: 5%;
+  margin-right: 5%;
+  align-self: center;
+}
+
+.icon:hover {
+  cursor: default;
+}
+
+.hide-sidebar {
+  display: flex;
+  padding-left: 8%;
+  height: 48px;
+  width: 87%;
+  border: none;
+  border-radius: 0px 100px 100px 0px;
+  background-color: var(--dark-hide);
+  text-align: center;
+  vertical-align: middle;
+  line-height: 48px;
+  font-weight: bold;
+  color: var(--hide-sidebar-text);
+  transition: 0.3s;
+}
+
+.hide-sidebar:hover {
+  cursor: pointer;
+}
+
+/*
+.show-sidebar-holder {
+  margin-top: 80%;
+}
+  */
+
+.show-sidebar-btn {
+  display: none;
+  position: absolute !important;
+  padding-left: 0.5%;
+  margin-top: 90vh !important;
+  height: 48px;
+  width: 5%;
+  border: none;
+  border-radius: 0px 100px 100px 0px;
+  background-color: #635fc7;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 48px;
+  font-weight: bold;
+  color: var(--hide-sidebar-text);
+  transition: 0.3s;
+  z-index: 2;
+}
+
 /* ===============
    Main Layout
 ================ */
