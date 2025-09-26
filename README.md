@@ -165,7 +165,11 @@ Mobile Dark Mode:
 
 ---
 
-## 🗣️ Presentation
+## 🗣 Presentation
+
+[Also available here](./presentation)
+
+https://github.com/user-attachments/assets/599f1b02-79cd-4aa8-8b9a-eae263ec7be1
 
 ---
 
